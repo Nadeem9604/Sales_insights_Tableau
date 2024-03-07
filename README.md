@@ -54,3 +54,5 @@ There are some problem statements which asked by steakholders or sales managers 
 4- Who are the Top 5 Customers ?
 
 5- What are the top 5 Products ?
+
+6- Make a Good Dashboard including all 5 charts in it
