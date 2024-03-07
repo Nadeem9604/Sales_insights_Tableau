@@ -44,4 +44,13 @@ First i did Data Analysis Using SQL for cleaning and checking the data some of t
 # Making Tableau worksheets and dashboard
 After the data cleaning and anlysing i created Worksheets and a Dashboard in Tableau Desktop
 There are some problem statements which asked by steakholders or sales managers so i have to answer those questions by worksheets and dashboard
-1- 
+
+1- What is the Sales Revenue b Markets ?
+
+2- What is the Sales Quantity by Markets ? 
+
+3- What is the Revenue by Year ? 
+
+4- Who are the Top 5 Customers ?
+
+5- What are the top 5 Products ?
